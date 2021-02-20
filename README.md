@@ -1,1 +1,1 @@
-# pandas-profiling-json
+# streamlit-pandas-profiling
